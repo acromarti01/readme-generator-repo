@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/acromarti01/readme-generator-repo/issues"
   },
-  "homepage": "https://github.com/acromarti01/readme-generator-repo#readme"
+  "homepage": "https://github.com/acromarti01/readme-generator-repo#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
 }
