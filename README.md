@@ -11,5 +11,5 @@
 
 ## License
 
-Licensed under the <a href src="./LICENSE.md">MIT</a> license.
+Licensed under the <a href="./LICENSE.md">MIT</a> license.
 
