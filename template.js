@@ -31,6 +31,8 @@ Licensed under the <a href="./LICENSE">MIT</a> license
 
 GitHub Profile: <a href="https://github.com/${answers.github}">https://github.com/${answers.github}</a>
 
+Any additional question you can reach me at <u>${answers.email}</u>
+
 `
 return html;
 

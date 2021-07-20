@@ -1,4 +1,4 @@
-# MY README
+# READ GEN
 
 ## Description
 
@@ -26,4 +26,6 @@ Licensed under the <a href="./LICENSE">MIT</a> license
 ## Questions
 
 GitHub Profile: <a href="https://github.com/acromarti01">https://github.com/acromarti01</a>
+
+Any additional question you can reach me at <u>acromarti@gmail.com</u>
 

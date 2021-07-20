@@ -9,7 +9,12 @@ module.exports = {
             type: 'input',
             name: 'github',
             message: 'What is your github username? '
-        },       
+        },
+        {
+            type: 'input',
+            name: 'email',
+            message: 'What is your email? '
+        },        
         // {
         //     type: 'input',
         //     name: 'your-motivation',
