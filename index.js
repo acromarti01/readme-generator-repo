@@ -7,7 +7,7 @@ const writeFileAsync  = promisify(file_system.writeFile);
     assign the generateProfile function in template.js to a variable
     Original way: const generateProfile = require('/templates').generateProfile;
     Shorthand way......  */
-const { generateProfile } = require('./test');
+const { generateProfile } = require('./template');
 const { qs } = require('./questions');
 
 const getUserInfo = () => {

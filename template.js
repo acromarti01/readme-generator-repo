@@ -1,22 +1,39 @@
-module.exports = {
-    generateProfile: (answers) => {
-        return `
-            <!DOCTYPE html>
-            <html lang="en">
-            <head>
-                <meta charset="UTF-8">
-                <meta http-equiv="X-UA-Compatible" content="IE=edge">
-                <meta name="viewport" content="width=device-width, initial-scale=1.0">
-                <title>Document</title>
-            </head>
-            <body>
-                ${answers.name}
-                ${answers.location}
-                ${answers.bio}
-                ${answers.github}
-                ${answers.linkedin}
-            </body>
-            </html>        
-        `
-    }
+function createHTML(answers)
+{
+    const html = 
+
+`# ${answers.project_title}
+
+## Description
+
+
+## Table of Contents
+
+
+## Installation
+
+
+## Usage
+
+
+## License
+
+Licensed under the <a href="./LICENSE">MIT</a> license
+
+
+## Contributing
+
+
+## Tests
+
+
+## Questions
+
+GitHub Profile: <a href="https://github.com/${answers.github}">https://github.com/${answers.github}</a>
+
+`
+return html;
+
 }
+
+module.exports = { generateProfile: (answers) => createHTML(answers) }

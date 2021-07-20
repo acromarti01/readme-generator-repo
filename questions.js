@@ -4,7 +4,12 @@ module.exports = {
             type: 'input',
             name: 'project_title',
             message: 'What is the name of the project? '
-        },
+        }, 
+        {
+            type: 'input',
+            name: 'github',
+            message: 'What is your github username? '
+        },       
         // {
         //     type: 'input',
         //     name: 'your-motivation',
