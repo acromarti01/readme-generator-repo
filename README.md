@@ -1,4 +1,6 @@
-# sky
+# MY README
+
+![badges](https://img.shields.io/badge/license-Creative_Commons_Zero_v1.0_Universal-brightgreen)
 
 ## Description
 
@@ -21,7 +23,7 @@
 
 ## License
 
-Licensed under the <a href="./LICENSE">MIT</a> license
+Licensed under the <a href="">Creative Commons Zero v1.0 Universal</a>
 
 
 ## Contributing
@@ -32,7 +34,7 @@ Licensed under the <a href="./LICENSE">MIT</a> license
 
 ## Questions
 
-GitHub Profile: <a href="https://github.com/read">https://github.com/read</a>
+GitHub Profile: <a href="https://github.com/githubUser06">https://github.com/githubUser06</a>
 
-Any additional question you can reach me at <u>free</u>
+Any additional question you can reach me at <u>email.com</u>
 

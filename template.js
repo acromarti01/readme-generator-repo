@@ -1,8 +1,11 @@
 function createHTML(answers)
 {
+    const modified_choice = answers.license_choices.replaceAll(" ", "_");
     const html = 
 
 `# ${answers.project_title}
+
+![badges](https://img.shields.io/badge/license-${modified_choice}-brightgreen)
 
 ## Description
 
@@ -25,7 +28,7 @@ function createHTML(answers)
 
 ## License
 
-Licensed under the <a href="./LICENSE">MIT</a> license
+Licensed under the <a href="">${answers.license_choices}</a>
 
 
 ## Contributing
