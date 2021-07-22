@@ -33,6 +33,20 @@ Licensed under the <a href="">${answers.license_choices}</a>
 
 ## Contributing
 
+This project follows the "Fork-and-Pull" Git workflow......
+
+1. Fork a GitHub repository
+2. Clone the forked repository to your local system
+3. Add a Git remote for the original repository
+4. Create a feature branch in which to place your changes
+5. Make your changes to the new branch
+6. Commit the changes to the branch
+7. Push the branch to GitHub
+
+Any additional guidlines are added here:
+
+${answers.contribution_guidelines}
+
 
 ## Tests
 

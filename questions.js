@@ -22,7 +22,13 @@ module.exports = {
                 "GNU Lesser General Public License v2.1",
                 "Mozilla Public License 2.0",
                 "The Unlicense"
-            ]
+            ],
+            loop: false
+        },
+        {
+            type: 'input',
+            name: 'contribution_guidelines',
+            message: 'What are your contribution guidlines? (By default it follows "Fork-and Pull" Git workflow) '
         },
         {
             type: 'input',
