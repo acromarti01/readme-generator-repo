@@ -4,7 +4,7 @@
 
 ## Description
 
-the project allows the user to dynamically create a README
+The project allows the user to dynamically generate a README
 
 ## Table of Contents
 
@@ -18,11 +18,11 @@ the project allows the user to dynamically create a README
 
 ## Installation
 
-to install dependencies use npm install
+To install dependecies in the terminal use npm install
 
 ## Usage
 
-to run the app use node index.js
+To run the application use node.index.js
 
 ## License
 
@@ -30,11 +30,11 @@ Licensed under the <a href="">MIT License</a>
 
 ## Contributing
 
-The project follows the fork and pull git workflow guidlines
+This project follows the Fork and Pull Git workflow guidlines
 
 ## Tests
 
-no test instructions
+There are no test instructions
 
 ## Questions
 
@@ -44,5 +44,5 @@ Any additional question you can reach me at <u>acromarti@gmail.com</u>
 
 ## Link to Video
 
-https://drive.google.com/file/d/1BX4VE-fjAizIcOjqqg6B5yMBYvglJ1NO/view
+https://drive.google.com/file/d/1stw2HXhzanjK_lsv2uNupZxVmvBBLiXp/view
 
