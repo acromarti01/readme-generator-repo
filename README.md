@@ -1,9 +1,10 @@
-# README GENERATOR
+# Professional README Generator
 
 ![badges](https://img.shields.io/badge/license-MIT_License-brightgreen)
 
 ## Description
 
+the project allows the user to dynamically create a README
 
 ## Table of Contents
 
@@ -17,38 +18,31 @@
 
 ## Installation
 
+to install dependencies use npm install
 
 ## Usage
 
+to run the app use node index.js
 
 ## License
 
 Licensed under the <a href="">MIT License</a>
 
-
 ## Contributing
 
-This project follows the "Fork-and-Pull" Git workflow......
-
-1. Fork a GitHub repository
-2. Clone the forked repository to your local system
-3. Add a Git remote for the original repository
-4. Create a feature branch in which to place your changes
-5. Make your changes to the new branch
-6. Commit the changes to the branch
-7. Push the branch to GitHub
-
-Any additional guidlines are added here:
-
-none right now
-
+The project follows the fork and pull git workflow guidlines
 
 ## Tests
 
+no test instructions
 
 ## Questions
 
 GitHub Profile: <a href="https://github.com/acromarti01">https://github.com/acromarti01</a>
 
-Any additional question you can reach me at <u>thisemail.com</u>
+Any additional question you can reach me at <u>acromarti@gmail.com</u>
+
+## Link to Video
+
+https://drive.google.com/file/d/1BX4VE-fjAizIcOjqqg6B5yMBYvglJ1NO/view
 
